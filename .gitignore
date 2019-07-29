@@ -1,0 +1,4 @@
+*.log
+.idea
+channel-artifacts
+crypto-config
